@@ -1,4 +1,4 @@
-# BarcodeScanner - ML Kit
+# Laboratorio 11 - BarcodeScanner - ML Kit
 
 Aplicación desarrollada en Android Studio utilizando Kotlin y Google ML Kit.
 
@@ -14,7 +14,7 @@ Implementación de la API **Smart Reply** de Google ML Kit, que genera sugerenci
 
 ## Evidencia
 
-![Actividad](imagenes/actividad.png)
+![Actividad](imagenes/actividad.jpeg)
 
 ---
 
@@ -31,7 +31,7 @@ Implementación de un **escáner de códigos de barras y códigos QR** utilizand
 
 ## Evidencia
 
-![Ejercicio 1](imagenes/ejercicio1.jpeg)
+![Ejercicio 1](imagenes/ejercicio1.png)
 
 ---
 
